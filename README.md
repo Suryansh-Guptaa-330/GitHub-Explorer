@@ -9,21 +9,6 @@
 
 A Real-time GitHub Explorer application built with React that provides live repository search, user profiles, and comprehensive GitHub data using the GitHub API.
 
-## 📸 Screenshots
-
-### Desktop View
-
-<img width="1365" height="678" alt="desktop-landing-page" src="https://github.com/user-attachments/assets/4964ebdb-7fbd-44db-8d42-c730af3ab5b4" />
-<img width="1365" height="680" alt="desktop-repo-page" src="https://github.com/user-attachments/assets/2616f1ff-e984-4769-93fd-4e8c34a4b58c" />
-<img width="1365" height="682" alt="desktop-repo" src="https://github.com/user-attachments/assets/dd692330-f125-40a3-8189-702e11ccd568" />
-
-
-### Mobile View
-
-<img width="199" height="442" alt="mobile-repo" src="https://github.com/user-attachments/assets/816edcf2-fb16-47fa-a883-c48053f5d1dc" />
-<img width="201" height="442" alt="Mobile-landing-page" src="https://github.com/user-attachments/assets/a31f1c8a-de99-44ee-910b-8e6504d971bf" />
-
-
 ### Live Demo
 🚀 [View Live Application](https://gitview1.netlify.app/)
 
